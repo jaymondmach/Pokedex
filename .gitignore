@@ -1,0 +1,7 @@
+routes/__pycache__
+*.py[cod]
+*$py.class
+*.pyc
+__pycache__
+data/db.py
+.coverage
